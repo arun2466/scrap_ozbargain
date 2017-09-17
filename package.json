@@ -1,0 +1,19 @@
+{
+  "name": "scrap_ozbargain",
+  "version": "1.0.0",
+  "description": "The goal of this project is to trigger a response if a keyword appears in an rss feed / web page.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arun2466/scrap_ozbargain.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arun2466/scrap_ozbargain/issues"
+  },
+  "homepage": "https://github.com/arun2466/scrap_ozbargain#readme"
+}
